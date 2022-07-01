@@ -1,0 +1,184 @@
+[
+  {
+    "title": "Happy Coat",
+    "desc": "lorem ipsum dolor sit amet, consectet this is the very first person in the ",
+    "img": "https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+    "  categories": [
+      {
+        "0": "coat"
+      }
+    ],
+    "size": [
+      {
+        "0": "XL",
+        "1": "L",
+        "2": "M"
+      }
+    ],
+    "price": 454,
+    "createdAt": "2022-04-11T03:44:41.106+00:00",
+    "updatedAt": "2022-04-11T03:44:41.106+00:00",
+    "__v": 0,
+    "inStock": true,
+    "color": "red"
+  },
+  {
+    "title": "Haff-Man",
+    "desc": "lorem ipsum dolor sit amet, consectet this is the very first person in the ",
+    "img": "https://i.ibb.co/3rJNCVM/ryan-hoffman-6-Nub980b-I3-I-unsplash-ccexpress-1.png",
+    "  categories": [
+      {
+        "0": "coat"
+      }
+    ],
+    "size": [
+      {
+        "0": "XL",
+        "1": "S",
+        "2": "M"
+      }
+    ],
+    "price": 354,
+    "createdAt": "2022-04-11T03:44:41.106+00:00",
+    "updatedAt": "2022-04-11T03:44:41.106+00:00",
+    "__v": 0,
+    "inStock": true,
+    "color": "black"
+  },
+  {
+    "title": "Pradanux",
+    "desc": "lorem ipsum dolor sit amet, consectet this is the very first person in the ",
+    "img": "https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
+    "  categories": [
+      {
+        "0": "coat"
+      }
+    ],
+    "size": [
+      {
+        "0": "L",
+        "1": "S",
+        "2": "M"
+      }
+    ],
+    "price": 374,
+    "createdAt": "2022-04-11T03:44:41.106+00:00",
+    "updatedAt": "2022-04-11T03:44:41.106+00:00",
+    "__v": 0,
+    "inStock": true,
+    "color": "red"
+  },
+  {
+    "title": "Pranux",
+    "desc": "lorem ipsum dolor sit amet, consectet this is the very first person in the ",
+    "img": "https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+    "  categories": [
+      {
+        "0": "woman"
+      }
+    ],
+    "size": [
+      {
+        "0": "L",
+        "1": "S",
+        "2": "M"
+      }
+    ],
+    "price": 374,
+    "createdAt": "2022-04-11T03:44:41.106+00:00",
+    "updatedAt": "2022-04-11T03:44:41.106+00:00",
+    "__v": 0,
+    "inStock": true,
+    "color": "yellow"
+  },
+  {
+    "title": "hulo",
+    "desc": "lorem ipsum dolor sit amet, consectet this is the very first person in the ",
+    "img": "https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
+    "  categories": [
+      {
+        "0": "woman"
+      }
+    ],
+    "size": {
+      "0": "L",
+      "1": "LS",
+      "2": "M"
+    },
+    "price": 274,
+    "createdAt": "2022-04-11T03:44:41.106+00:00",
+    "updatedAt": "2022-04-11T03:44:41.106+00:00",
+    "__v": 0,
+    "inStock": true,
+    "color": "white"
+  },
+  {
+    "title": "Prada",
+    "desc": "lorem ipsum dolor sit amet, consectet this is the very first person in the ",
+    "img": "https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
+    "  categories": [
+      {
+        "0": "woman"
+      }
+    ],
+    "size": [
+      {
+        "0": "s",
+        "1": "M",
+        "2": "L"
+      }
+    ],
+    "price": 474,
+    "createdAt": "2022-04-11T03:44:41.106+00:00",
+    "updatedAt": "2022-04-11T03:44:41.106+00:00",
+    "__v": 0,
+    "inStock": true,
+    "color": "red"
+  },
+  {
+    "title": "Deep",
+    "desc": "lorem ipsum dolor sit amet, consectet this is the very first person in the ",
+    "img": "https://i.ibb.co/3WFLtrv/tobias-tullius-Fg15-Ldqp-Wrs-unsplash-ccexpress.png",
+    "  categories": [
+      {
+        "0": "jeans"
+      }
+    ],
+    "size": [
+      {
+        "0": "S",
+        "1": "M",
+        "2": "Xl"
+      }
+    ],
+    "price": 934,
+    "createdAt": "2022-04-11T03:44:41.106+00:00",
+    "updatedAt": "2022-04-11T03:44:41.106+00:00",
+    "__v": 0,
+    "inStock": true,
+    "color": "red"
+  },
+  {
+    "title": "Jacket",
+    "desc": "lorem ipsum dolor sit amet, consectet this is the very first person in the ",
+    "img": "https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+    "  categories": [
+      {
+        "0": "jeans"
+      }
+    ],
+    "size": [
+      {
+        "0": "s",
+        "1": "M",
+        "2": "D"
+      }
+    ],
+    "price": 734,
+    "createdAt": "2022-04-11T03:44:41.106+00:00",
+    "updatedAt": "2022-04-11T03:44:41.106+00:00",
+    "__v": 0,
+    "inStock": true,
+    "color": "red"
+  }
+]
