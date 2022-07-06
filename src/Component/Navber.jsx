@@ -19,8 +19,8 @@ const NavbarScroll = () => {
                 <Nav.Link as={Link} style={{ width: "50px", fontWeight: "600px" }} to="/home">
                   Home
                 </Nav.Link>
-                <Nav.Link as={Link} style={{ width: "50px", fontWeight: "600px ", margin: "0px 10px 0px 0px" }} to="/success">
-                  product
+                <Nav.Link as={Link} style={{ width: "50px", fontWeight: "600px ", margin: "0px 10px 0px 0px" }} to="/products">
+                  Product
                 </Nav.Link>
                 <Nav.Link as={Link} style={{ width: "50px", fontWeight: "600px ", margin: "0px 10px 0px 0px" }} to="/blog">
                   Blog

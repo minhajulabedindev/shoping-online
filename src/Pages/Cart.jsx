@@ -1,7 +1,7 @@
 import { Add, Announcement, Remove } from "@mui/icons-material";
 import { useEffect, useState } from "react";
 import { useSelector } from "react-redux";
-import { useHistory } from "react-router-dom";
+import { Link, useHistory } from "react-router-dom";
 import StripeCheckout from "react-stripe-checkout";
 import styled from "styled-components";
 import Footer from "../Component/Footer";
@@ -177,13 +177,17 @@ const Cart = () => {
     };
     stripeToken && makeRequest();
   }, [stripeToken, cart.total, history]);
+
   return (
     <Container>
       <Announcement />
       <Wrapper>
         <Title>YOUR BAG</Title>
         <Top>
-          <TopButton>CONTINUE SHOPPING</TopButton>
+          <Link to="/home">
+            {" "}
+            <TopButton>CONTINUE SHOPPING</TopButton>
+          </Link>
           <TopTexts>
             <TopText>Shopping Bag(2)</TopText>
             <TopText>Your Wishlist (0)</TopText>

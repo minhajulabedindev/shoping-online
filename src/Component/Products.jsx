@@ -20,7 +20,11 @@ const Products = ({ cat, filters, sort }) => {
   useEffect(() => {
     const getProducts = async () => {
       try {
-        const res = await axios.get(cat ? `http://localhost:8800/api/products?category=${cat}` : "http://localhost:8800/api/products");
+        const res = await axios.get(
+          cat
+            ? `https://socialist-goose-56081.herokuapp.com/api/products?category=${cat}`
+            : "https://socialist-goose-56081.herokuapp.com/api/products"
+        );
         setProducts(res.data);
       } catch (err) {
         console.log(err);
